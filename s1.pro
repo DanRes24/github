@@ -1,5 +1,7 @@
 HEADERS += \
-    main.h
+    main.h \
+    test.h
 
 SOURCES += \
-    main.cpp
+    main.cpp \
+    test.cpp
